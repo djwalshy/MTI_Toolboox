@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/ImageButton04"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="openWhiteFlag"
+            android:src="@drawable/large_white_flag_waving"
+            android:contentDescription="@string/WhiteFlag" />
+
+        <ImageButton
+            android:id="@+id/ImageButton03"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="openGreenFlag"
+            android:src="@drawable/large_green_flag_waving" 
+            android:contentDescription="@string/GreenFlag" />
+
+        <ImageButton
+            android:id="@+id/ImageButton02"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/large_yellow_flag_waving" 
+            android:contentDescription="@string/YellowFlag" />
+
+        <ImageButton
+            android:id="@+id/ImageButton01"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/large_red_flag_waving"
+            android:contentDescription="@string/RedFlag" />
+
+        <ImageButton
+            android:id="@+id/imageButton1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/large_black_flag_waving"
+            android:contentDescription="@string/BlackFlag" />
+
+        <Button
+            android:id="@+id/btnAcclimatized"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:scrollbarAlwaysDrawVerticalTrack="false"
+            android:text="@string/Acclimatized" />
+
+        <Button
+            android:id="@+id/btnUnAcclimatized"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Unacclimatized" 
+            android:onClick="openUnacclimatized"/>
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/HeatStroke" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/HeatExhaustion" />
+
+</LinearLayout>

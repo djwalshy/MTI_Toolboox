@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="Question1">
+    <item>1. XXXXXXXXXX</item>
+    <item>A. XXXXXXXXXX</item>
+    <item>B. XXXXXXXXXX</item>
+    <item>C. XXXXXXXXXX</item>
+    <item>D. XXXXXXXXXX</item>
+    .
+    .
+</string-array>
+
+<string-array name="Question2">
+    <item>A. XXXXXXXXXX</item>
+    <item>B. XXXXXXXXXX</item>
+    <item>C. XXXXXXXXXX</item>
+    <item>D. XXXXXXXXXX</item>
+    .
+    .
+</string-array>
+
+<string-array name="WFHF1">
+    <item>0</item>
+    <item>2</item>
+    <item>4</item>
+    <item>6</item>
+    <item>8</item>
+    <item>10</item>
+    .
+    .
+</string-array>
+
+<string-array name="ContactInfo">
+    <item>319TRS@671\-3507@9310@ROOM</item>
+    <item>320TRS@671\-2037@10416@ROOM</item>
+    <item>321TRS@671\-2804@9410@ROOM</item>
+    <item>322TRS@671\-4205@9110@ROOM</item>
+    <item>323TRS@671\-3871@6275@ROOM</item>
+    <item>326TRS@671\-2685@9210@ROOM</item>
+    <item>331TRS@671\-2204@9085@ROOM</item>
+    <item></item>
+    
+</string-array>
+    
+    <string-array name="spinnerItems">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    
+</resources>
+    

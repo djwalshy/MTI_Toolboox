@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActionBar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="phonebook">Phonebook</string>
+    <string name="title_activity_phone_book">PhoneBookActivity</string>
+    <string name="title_section1">Processing</string>
+    <string name="title_section2">Medical</string>
+    <string name="title_section3">320th</string>
+    <string name="title_section4">321st</string>
+    <string name="title_section5">322nd</string>
+    <string name="title_section6">323rd</string>
+    <string name="title_section7">326th</string>
+    <string name="title_section8">331st</string>
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+    <string name="btn362">737 TRG OI 36 2</string>
+    <string name="btn3603">737 TRG OI 36 03</string>
+    <string name="btn362905">737 TRG OI 36 2905</string>
+    <string name="btn363">737 TRG OI 36 3</string>
+    <string name="btnBA">BA Book</string>
+    <string name="btnBMTSG">BMTSG</string>
+    <string name="btnWAC">WAC</string>
+    <string name="Unacclimatized">Unacclimatized</string>
+    <string name="Acclimatized">Acclimatized</string>
+    <string name="wfhfTotal">Total:</string>
+    <string name="CQHeading">CQ Accoutability:</string>
+    <string name="CQDormChief">Sir/Ma\'am, Dorm Chief (Dorm Number), accountability is as
+        follows.  (Number Assigned) trainees assigned, (Number Accounted for) trainees accounted for. Dormitory
+        temperature is (XX degrees)</string>
+    <string name="CQExample1">(20 trainees at KP duty at 331st)</string>
+    <string name="CQExample1Heading">CQ Example 1</string>
+    <string name="CQDormChiefExample1">Sir/Ma\'am, Dorm Chief, Dorm 3C1.  Accoutability is as
+        follows: 52 trainees assigned, 32 trainees accounted for, 20 trainees at 331st on KP 
+        duty. Dormitory temperature is 76 degrees</string>
+    <string name="welcome">MTI TOOLBOX</string>
+    <string name="WhiteFlag">White Flag</string>
+    <string name="GreenFlag">Green Flag</string>
+    <string name="YellowFlag">Yellow Flag</string>
+    <string name="BlackFlag">Black Flag</string>
+    <string name="RedFlag">Red Flag</string>
+    <string name="HeatStroke">HEAT       STROKE</string>
+    <string name="HeatExhaustion">HEAT  EXHAUSTION</string>
+    <string name="title_activity_fragment_five">PHONE BOOK</string>
+    <string name="empty">No Items</string>
+    <string name="title_activity_main22">MainActivity</string>
+	<string name="first">first</string>
+	<string name="last">last</string>
+	<string name="ui_tabname_find">FIND</string>
+	<string name="ui_tabname_chat">CHAT</string>
+	<string name="ui_tabname_meet">MEET</string>
+	<string name="ui_tabname_party">PARTY</string>
+	<string name="phonebookactivity">PhoneBook</string>
+	<string name="unacclimatized_title">UNACCLIMATIZED - Airmen wearing ABU, *Hot Weather (0-2 WOT)</string>
+	<string-array name="list">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+        <item>Item 5</item>
+        <item>Item 6</item>
+        <item>Item 7</item>
+        <item>Item 8</item>
+    </string-array>
+
+    <string-array name="list1">
+        <item>Item 11</item>
+        <item>Item 12</item>
+        <item>Item 13</item>
+        <item>Item 14</item>
+        <item>Item 15</item>
+        <item>Item 16</item>
+        <item>Item 17</item>
+        <item>Item 18</item>
+    </string-array>
+    
+    <string-array name="list3">
+        <item>Item 31</item>
+        <item>Item 32</item>
+        <item>Item 33</item>
+        <item>Item 34</item>
+        <item>Item 35</item>
+        <item>Item 36</item>
+        <item>Item 37</item>
+        <item>Item 38</item>
+    </string-array>
+</resources>

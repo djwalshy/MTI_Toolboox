@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/frag1_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/frag1_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/btn362"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn362" />
+
+    <Button
+        android:id="@+id/btn363"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="open363()"
+        android:text="@string/btn363" />
+
+    <Button
+        android:id="@+id/btn3603"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn3603" />
+
+    <Button
+        android:id="@+id/btn362905"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn362905" />
+
+    <Button
+        android:id="@+id/btnBA"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnBA" />
+
+    <Button
+        android:id="@+id/btnBMTSG"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnBMTSG" />
+
+    <Button
+        android:id="@+id/btnUnAcclimatized"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnWAC" />
+
+</LinearLayout>
